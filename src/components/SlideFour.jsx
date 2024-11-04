@@ -80,7 +80,7 @@ American indicators!
           <img
             src={Mobile}
             alt="Mobile"
-            className="w-[400px] md:w-[250px] md:absolute md:top-10 md:-right-[120px] "
+            className="w-[400px] md:w-[250px] md:absolute md:top-10 md:-right-[100px] "
           />
         </div>
       </div>

@@ -8,15 +8,15 @@ export default {
     extend: {
       screens: {
         'xs': '320px',
-        'xss': '325px',
-        '2xss': '330px',
-        '2xs': '347px',
-        '3xs': '403px',
-        '4xs':'431px',
-        '5xs': '476px',
-        '6xs': '443px',
-        '7xs': '505px',
-        '8xs': '705px',
+        '2xs': '375px',
+        'xss' : '379px',
+        'xsss' : '415px',
+        '3xs': '425px',
+        '3xss': '435px',
+        '3xsss': '624px',
+        '4xs': '705px',
+      
+     
         'sm': '640px',
         'md': '768px',
         'lg': '1024px',

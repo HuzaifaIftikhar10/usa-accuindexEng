@@ -4,7 +4,7 @@ import photo from "../images/Mask.png";
 
 export const SlideTwo = () => {
   return (
-    <div className="bg-gradient-to-r from-[#9A2168] to-[#530037]  xs:h-[675px] xss:h-[643px] 2xss:h-[623px] 2xs:h-[603px] 3xs:h-[583px] 4xs:h-[563px] 5xs:h-[531px] 6xs:h-[531px] 7xs:h-[511px] 8xs:h-[491px] md:h-[350px] lg:h-[396px] relative flex flex-col-reverse md:flex-row md:mb-20 lg:mb-12 mb-9">
+    <div className="bg-gradient-to-r from-[#9A2168] to-[#530037]  xs:h-[563px] xss:h-[523px] xsss:h-[491px] 3xss:h-[471px] 2xs:h-[543px] 3xs:h-[491px] 3xsss:h-[451px] 4xs:h-[431px] md:h-[350px] lg:h-[396px] relative flex flex-col-reverse md:flex-row md:mb-20 lg:mb-12 mb-9">
       <div className="relative flex-1 flex items-center justify-center lg:pl-10">
         <div className="absolute top-[24px] md:top-[117px] lg:top-[70px] xl:top-[68px]">
           {/* Background Image (Frame) */}
