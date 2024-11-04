@@ -360,7 +360,7 @@ export const SlideOne = () => {
       </div>
 
       {/* Right Section: Image */}
-      <div className="relative w-full flex flex-1 items-end xl:pr-36 inset-y-3">
+      <div className="relative w-full flex flex-1 items-end xl:pr-36 inset-y-3 md:inset-y-4 lg:inset-y-5 xl:inset-y-4">
         <img src={man} alt="Man" className="xl:h-[700px] xl:w-[850px]" />
       </div>
     </div>
